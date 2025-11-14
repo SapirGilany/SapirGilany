@@ -28,9 +28,9 @@ I'm a Software Engineering student specializing in **Machine Learning and Artifi
       </a>
       <h3>Interpreter for Functional Programming Language</h3>
       <p>Lambda, Recursion, Parsing, AST.</p>
-      <a href="https://github.com/DcSlight/Interpreter"><b>🔗 View Repo</b></a>
-      <br><br>
       <b>Tech:</b> Python · Parsing · AST · Functional Programming
+      <br><br><br>
+      <a href="https://github.com/DcSlight/Interpreter"><b>🔗 View Repo</b></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/DcSlight/Soldicare">
@@ -38,10 +38,10 @@ I'm a Software Engineering student specializing in **Machine Learning and Artifi
       </a>
       <h3>SolidCare - Soldier Health Monitoring System - Team Collaboration</h3>
       <p>Java, Spring Boot, Python, Figma etc.</p>
+      <b>Tech:</b> Java · Spring Boot · Python · Figma
+      <br><br>
       <a href="https://github.com/DcSlight/Soldicare"><b>🔗 View Repo</b></a> •
       <a href="https://www.youtube.com/watch?v=EvG0k-AL1xk"><b>▶ Demo</b></a>
-      <br><br>
-      <b>Tech:</b> Java · Spring Boot · Python · Figma
     </td>
   </tr>
   <tr>
@@ -51,9 +51,9 @@ I'm a Software Engineering student specializing in **Machine Learning and Artifi
       </a>
       <h3>Machine Learning Mini-Projects</h3>
       <p>PyTorch, TensorFlow, CNN, Neural Networks, LSTM, KNN, SVM etc.</p>
-      <a href="https://github.com/DcSlight/ml-dl-projects"><b>🔗 View Repo</b></a>
-      <br><br>
       <b>Tech:</b> Python · PyTorch · TensorFlow · scikit-learn
+      <br><br>
+      <a href="https://github.com/DcSlight/ml-dl-projects"><b>🔗 View Repo</b></a>
     </td>
     <td align="center" width="50%">
       <br><br><br>
@@ -61,9 +61,9 @@ I'm a Software Engineering student specializing in **Machine Learning and Artifi
       <br><br><br>
       <h3>Coca Cola System in C</h3>
       <p>Polymorphism, Data Compression, Encryption, Low-Level Programming.</p>
-      <a href="https://github.com/DcSlight/FinalCourseC"><b>🔗 View Repo</b></a>
-      <br><br>
       <b>Tech:</b> C · Data Compression · Encryption · Low-Level Programming
+      <br><br>
+      <a href="https://github.com/DcSlight/FinalCourseC"><b>🔗 View Repo</b></a>
     </td>
   </tr>
 </table>
