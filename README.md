@@ -30,7 +30,7 @@ I'm a Software Engineering student specializing in **Machine Learning and Artifi
       <p>Lambda, Recursion, Parsing, AST.</p>
       <b>Tech:</b> Python · Parsing · AST · Functional Programming
       <br><br>
-      <div>
+      <div style="height:40px;">
         <a href="https://github.com/DcSlight/Interpreter"><b>🔗 View Repo</b></a>
       </div>
     </td>
@@ -42,7 +42,7 @@ I'm a Software Engineering student specializing in **Machine Learning and Artifi
       <p>Java, Spring Boot, Python, Figma etc.</p>
       <b>Tech:</b> Java · Spring Boot · Python · Figma
       <br><br>
-      <div>
+      <div style="height:40px;">
         <a href="https://github.com/DcSlight/Soldicare"><b>🔗 View Repo</b></a> •
         <a href="https://www.youtube.com/watch?v=EvG0k-AL1xk"><b>▶ Demo</b></a>
       </div>
@@ -57,18 +57,21 @@ I'm a Software Engineering student specializing in **Machine Learning and Artifi
       <p>PyTorch, TensorFlow, CNN, Neural Networks, LSTM, KNN, SVM etc.</p>
       <b>Tech:</b> Python · PyTorch · TensorFlow · scikit-learn
       <br><br>
-      <div>
+      <div style="height:40px;">
         <a href="https://github.com/DcSlight/ml-dl-projects"><b>🔗 View Repo</b></a>
       </div>
     </td>
     <td align="center" width="50%">
+      <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/320px-Coca-Cola_logo.svg.png" alt="Coca Cola" height="250">
+      <br><br><br>
       <h3>Coca Cola System in C</h3>
       <p>Polymorphism, Data Compression, Encryption, Low-Level Programming.</p>
       <b>Tech:</b> C · Data Compression · Encryption · Low-Level Programming
       <br><br>
-      <div>
-        <a href="https://github.com/DcSlight/FinalCourseC"><b>🔗 View Repo</b></a>
+      <div style="height:40px;">
+        <a href="https://github.com/DcSlight/FinalCourseC"><b>🔗 View Repo</b></a> •
+        <a href="https://example.com/demo"><b>▶ Demo</b></a>
       </div>
     </td>
   </tr>
